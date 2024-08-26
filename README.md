@@ -142,6 +142,191 @@ With respect to fyp-1, we did recognition on BareFace, Glasses and Hat Recogniti
 - Face Mask: 25
 - **Total Images:** 198
 
+
+## Train Set
+
+- **P1**  
+  - Bare Face: 19  
+  - Glasses: 17  
+  - Hats: 17  
+  - Fake Beard: 18  
+  - Face Mask: 17  
+  - **Sub-Total:** 88
+
+- **P2**  
+  - Bare Face: 15  
+  - Glasses: 12  
+  - Hats: 11  
+  - Fake Beard: 15  
+  - Face Mask: 15  
+  - **Sub-Total:** 68
+
+- **P3**  
+  - Bare Face: 20  
+  - Glasses: 12  
+  - Hats: 11  
+  - Fake Beard: 17  
+  - Face Mask: 19  
+  - **Sub-Total:** 79
+
+- **P4**  
+  - Bare Face: 15  
+  - Glasses: 18  
+  - Hats: 27  
+  - Fake Beard: 16  
+  - Face Mask: 27  
+  - **Sub-Total:** 103
+
+- **P5**  
+  - Bare Face: 14  
+  - Glasses: 14  
+  - Hats: 14  
+  - Fake Beard: 18  
+  - Face Mask: 21  
+  - **Sub-Total:** 81
+
+- **P6**  
+  - Bare Face: 10  
+  - Glasses: 12  
+  - Hats: 14  
+  - Fake Beard: 18  
+  - Face Mask: 16  
+  - **Sub-Total:** 70
+
+- **P7**  
+  - Bare Face: 09  
+  - Glasses: 12  
+  - Hats: 08  
+  - Fake Beard: 10  
+  - Face Mask: 22  
+  - **Sub-Total:** 61
+
+- **P8**  
+  - Bare Face: 09  
+  - Glasses: 21  
+  - Hats: 10  
+  - Fake Beard: 14  
+  - Face Mask: 11  
+  - **Sub-Total:** 65
+
+- **P9**  
+  - Bare Face: 08  
+  - Glasses: 05  
+  - Hats: 07  
+  - Fake Beard: 21  
+  - Face Mask: 17  
+  - **Sub-Total:** 58
+
+- **P10**  
+  - Bare Face: 12  
+  - Glasses: 09  
+  - Hats: 06  
+  - Fake Beard: 22  
+  - Face Mask: 11  
+  - **Sub-Total:** 60
+
+- **P11**  
+  - Bare Face: 19  
+  - Glasses: 15  
+  - Hats: 17  
+  - Fake Beard: 18  
+  - Face Mask: 11  
+  - **Sub-Total:** 80
+
+**Total Images in Train Set:** 774
+
+## Test Set
+
+- **P1**  
+  - Bare Face: 32  
+  - Glasses: 18  
+  - Hats: 27  
+  - Fake Beard: 27  
+  - Face Mask: 21  
+  - **Sub-Total:** 125
+
+- **P2**  
+  - Bare Face: 21  
+  - Glasses: 20  
+  - Hats: 16  
+  - Fake Beard: 19  
+  - Face Mask: 16  
+  - **Sub-Total:** 92
+
+- **P3**  
+  - Bare Face: 41  
+  - Glasses: 30  
+  - Hats: 20  
+  - Fake Beard: 21  
+  - Face Mask: 26  
+  - **Sub-Total:** 138
+
+- **P4**  
+  - Bare Face: 24  
+  - Glasses: 53  
+  - Hats: 62  
+  - Fake Beard: 30  
+  - Face Mask: 35  
+  - **Sub-Total:** 204
+
+- **P5**  
+  - Bare Face: 76  
+  - Glasses: 39  
+  - Hats: 37  
+  - Fake Beard: 22  
+  - Face Mask: 27  
+  - **Sub-Total:** 152
+
+- **P6**  
+  - Bare Face: 11  
+  - Glasses: 19  
+  - Hats: 13  
+  - Fake Beard: 27  
+  - Face Mask: 22  
+  - **Sub-Total:** 92
+
+- **P7**  
+  - Bare Face: 12  
+  - Glasses: 12  
+  - Hats: 18  
+  - Fake Beard: 22  
+  - Face Mask: 18  
+  - **Sub-Total:** 82
+
+- **P8**  
+  - Bare Face: 10  
+  - Glasses: 21  
+  - Hats: 14  
+  - Fake Beard: 17  
+  - Face Mask: 13  
+  - **Sub-Total:** 75
+
+- **P9**  
+  - Bare Face: 10  
+  - Glasses: 04  
+  - Hats: 13  
+  - Fake Beard: 27  
+  - Face Mask: 21  
+  - **Sub-Total:** 75
+
+- **P10**  
+  - Bare Face: 16  
+  - Glasses: 14  
+  - Hats: 19  
+  - Fake Beard: 26  
+  - Face Mask: 15  
+  - **Sub-Total:** 90
+
+- **P11**  
+  - Bare Face: 26  
+  - Glasses: 26  
+  - Hats: 26  
+  - Fake Beard: 26  
+  - Face Mask: 14  
+  - **Sub-Total:** 118
+
+**Total Images in Test Set:** 1,046
+
 TRAIN SET:
 
 P1 BARE FACE= 19 , GLASSES= 17 ,HATS= 17, FAKEBEARD= 18, FACEMASK= 17 [Sub-Total = 88] P2 BARE FACE= 15 , GLASSES= 12 ,HATS= 11, FAKEBEARD= 15, FACEMASK= 15 [Sub-Total = 68] P3 BARE FACE= 20 , GLASSES= 12 ,HATS= 11, FAKEBEARD= 17, FACEMASK= 19 [Sub-Total = 79] P4 BARE FACE= 15 , GLASSES= 18 ,HATS= 27, FAKEBEARD= 16, FACEMASK= 27 [Sub-Total = 103] P5 BARE FACE= 14 , GLASSES= 14 ,HATS= 14, FAKEBEARD= 18, FACEMASK= 21 [Sub-Total = 42] P6 BARE FACE= 10 , GLASSES= 12 ,HATS= 14, FAKEBEARD= 18, FACEMASK= 16 [Sub-Total = 70] P7 BARE FACE= 09 , GLASSES= 12 ,HATS= 08, FAKEBEARD= 10, FACEMASK= 22 [Sub-Total = 61] P8 BARE FACE= 09 , GLASSES= 21 ,HATS= 10, FAKEBEARD= 14, FACEMASK= 11 [Sub-Total = 65] P9 BARE FACE= 08 , GLASSES= 05 ,HATS= 07, FAKEBEARD= 21, FACEMASK= 17 [Sub-Total = 58] P10 BARE FACE= 12 , GLASSES= 09 ,HATS= 06, FAKEBEARD= 22, FACEMASK= 11 [Sub-Total = 60] P11 BARE FACE= 19 , GLASSES= 15 ,HATS= 17, FAKEBEARD= 18, FACEMASK= 11 [Sub-Total = 80]
