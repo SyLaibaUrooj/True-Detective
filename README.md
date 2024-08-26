@@ -48,29 +48,99 @@ With respect to fyp-1, we did recognition on BareFace, Glasses and Hat Recogniti
 - [Download Dataset](https://drive.google.com/drive/folders/1Yo1DerbK6ziiCmWEPTX7wViSQbCywfQX?usp=sharing)
   
 
-IMAGES = [ BARE FACE, GLASSES, HATS, FAKE BEARD, FACE MASK ] Total Individuals = 11 Total Images = 2201
+**IMAGES:** [BARE FACE, GLASSES, HATS, FAKE BEARD, FACE MASK]  
+**Total Individuals:** 11  
+**Total Images:** 2201
 
-P1 - LAIBA Total BareFace = 51 Total Glasses = 35 Total Hats = 44 Total FakeBeard = 45 Total FACEMASK = 38 Total images of p1 = 213
+## Distribution
 
-P2 - RUHMA Total BareFace = 36 Total Glasses = 32 Total Hats = 27 Total FakeBeard = 34 Total FACEMASK = 31 Total images of p2 = 160
+### P1 - LAIBA
+- Bare Face: 51
+- Glasses: 35
+- Hats: 44
+- Fake Beard: 45
+- Face Mask: 38
+- **Total Images:** 213
 
-P3 - ABDUL SAAD Total BareFace = 61 Total Glasses = 42 Total Hats = 31 Total FakeBeard = 38 Total FACEMASK = 45 Total images of p3 = 217
+### P2 - RUHMA
+- Bare Face: 36
+- Glasses: 32
+- Hats: 27
+- Fake Beard: 34
+- Face Mask: 31
+- **Total Images:** 160
 
-P4 - ABDUR RAFAY Total BareFace = 39 Total Glasses = 71 Total Hats = 89 Total FakeBeard = 46 Total FACEMASK = 62 Total images of p4 = 307
+### P3 - ABDUL SAAD
+- Bare Face: 61
+- Glasses: 42
+- Hats: 31
+- Fake Beard: 38
+- Face Mask: 45
+- **Total Images:** 217
 
-P5 - HURAIRA Total BareFace = 90 Total Glasses = 53 Total Hats = 51 Total FakeBeard = 40 Total FACEMASK = 48 Total images of p5 = 282
+### P4 - ABDUR RAFAY
+- Bare Face: 39
+- Glasses: 71
+- Hats: 89
+- Fake Beard: 46
+- Face Mask: 62
+- **Total Images:** 307
 
-P6 - HASSAN Total BareFace = 21 Total Glasses = 32 Total Hats = 27 Total FakeBeard = 45 Total FACEMASK = 38 Total images of p6 = 162
+### P5 - HURAIRA
+- Bare Face: 90
+- Glasses: 53
+- Hats: 51
+- Fake Beard: 40
+- Face Mask: 48
+- **Total Images:** 282
 
-P7 - ZARYAB Total BareFace = 21 Total Glasses = 45 Total Hats = 26 Total FakeBeard = 32 Total FACEMASK = 53 Total images of p7 = 177
+### P6 - HASSAN
+- Bare Face: 21
+- Glasses: 32
+- Hats: 27
+- Fake Beard: 45
+- Face Mask: 38
+- **Total Images:** 162
 
-P8 - IBRAHIM Total BareFace = 19 Total Glasses = 87 Total Hats = 40 Total FakeBeard = 31 Total FACEMASK = 24 Total images of p8 = 201
+### P7 - ZARYAB
+- Bare Face: 21
+- Glasses: 45
+- Hats: 26
+- Fake Beard: 32
+- Face Mask: 53
+- **Total Images:** 177
 
-P9 - ANAS Total BareFace = 18 Total Glasses = 09 Total Hats = 20 Total FakeBeard = 48 Total FACEMASK = 39 Total images of p9 = 134
+### P8 - IBRAHIM
+- Bare Face: 19
+- Glasses: 87
+- Hats: 40
+- Fake Beard: 31
+- Face Mask: 24
+- **Total Images:** 201
 
-P10 - MUSAAB Total BareFace = 28 Total Glasses = 23 Total Hats = 25 Total FakeBeard = 48 Total FACEMASK = 26 Total images of p10 = 150
+### P9 - ANAS
+- Bare Face: 18
+- Glasses: 09
+- Hats: 20
+- Fake Beard: 48
+- Face Mask: 39
+- **Total Images:** 134
 
-P11 - MUNZAR Total BareFace = 45 Total Glasses = 41 Total Hats = 43 Total FakeBeard = 44 Total FACEMASK = 25 Total images of p10 = 198
+### P10 - MUSAAB
+- Bare Face: 28
+- Glasses: 23
+- Hats: 25
+- Fake Beard: 48
+- Face Mask: 26
+- **Total Images:** 150
+
+### P11 - MUNZAR
+- Bare Face: 45
+- Glasses: 41
+- Hats: 43
+- Fake Beard: 44
+- Face Mask: 25
+- **Total Images:** 198
 
 TRAIN SET:
 
