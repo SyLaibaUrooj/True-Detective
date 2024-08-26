@@ -45,10 +45,8 @@ With respect to fyp-1, we did recognition on BareFace, Glasses and Hat Recogniti
 
 - **Total Size:** 10.08 GB
 - **Password for Dataset:** `#FYP17Trudetective1!`
-							INFO
-Total GB: 10.08 Password For Dataset: #FYP17Trudetective1!
-
-https://drive.google.com/drive/folders/1Yo1DerbK6ziiCmWEPTX7wViSQbCywfQX?usp=sharing
+- [Download Dataset](https://drive.google.com/drive/folders/1Yo1DerbK6ziiCmWEPTX7wViSQbCywfQX?usp=sharing)
+  
 
 IMAGES = [ BARE FACE, GLASSES, HATS, FAKE BEARD, FACE MASK ] Total Individuals = 11 Total Images = 2201
 
