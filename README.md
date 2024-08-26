@@ -13,10 +13,10 @@ True Detective is an intelligent system that recognizes a person from a cctv poi
 4. The recognition is performed on CCTV images and videos.
 5. The data is self-collected images from CCTV viewpoints. (Full info in the `datasetinfo` file.)
 
-  
-The DisguisedTrueDetective_1.py file contains the entire code for Disguise Face Recognition. on CCTV Images
+## Code
 
-You need to upload it on colab and convert it into an .ipynb notebook and run (Because the files size is very big it was uploaded .py extention)
+The `DisguisedTrueDetective_1.py` file contains the entire code for disguise face recognition on CCTV images. You need to upload it to Colab and convert it into an `.ipynb` notebook and run it (due to the large file size, it was uploaded with a `.py` extension).
+
 
 DATASET USED: TrueDetectiveDataset-1
 
