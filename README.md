@@ -17,36 +17,34 @@ True Detective is an intelligent system that recognizes a person from a cctv poi
 
 The `DisguisedTrueDetective_1.py` file contains the entire code for disguise face recognition on CCTV images. You need to upload it to Colab and convert it into an `.ipynb` notebook and run it (due to the large file size, it was uploaded with a `.py` extension).
 
+## Dataset
 
-DATASET USED: TrueDetectiveDataset-1
+**Dataset Used:** TrueDetectiveDataset-1
+
 
 It contains pictures of 11 different individuals each comprisig of atleast 250 pictures. The train and test data are disjoint. Download The dataset via the link provided and use the password given for it.
 
-The Disguised Appearances Contain:
+**Disguised Appearances Include:**
+- Bare Face Images
+- Glasses
+- Hats
+- Fake Beard
+- Face Masks
 
-Bare Face Images
-Glasses
-Hats
-Fake Beard
-Face Masks
-The images comprises of:
-
-various backgrounds
-
-complex background
-
-simple background
-
-side views
-
-light and dark conditions
-
-occlusion
-
-cctv view
+**Image Variations:**
+- Various backgrounds
+- Complex and simple backgrounds
+- Side views
+- Light and dark conditions
+- Occlusion
+- CCTV view
 
 With respect to fyp-1, we did recognition on BareFace, Glasses and Hat Recognition. With respect to fyp-2 we did recognition on Fake Baerd, Face Mask. The Test Train Data distribution is as below.
 
+## INFO
+
+- **Total Size:** 10.08 GB
+- **Password for Dataset:** `#FYP17Trudetective1!`
 							INFO
 Total GB: 10.08 Password For Dataset: #FYP17Trudetective1!
 
